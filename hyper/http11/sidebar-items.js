@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Http11Message","An implementation of the `HttpMessage` trait for HTTP/1.1."],["Http11Protocol","The `Protocol` implementation provides HTTP/1.1 messages."]]});
